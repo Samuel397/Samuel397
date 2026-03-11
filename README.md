@@ -2,11 +2,11 @@
 
 # @cvmm
 
-**Salesforce Developer | Android Developer | Python Enthusiast**
+**Engenheiro da Computação | Salesforce Developer | Android Developer | Python Enthusiast**
 
 ```
 $ whoami
-> Samuel Augusto — Desenvolvedor Salesforce & entusiasta de tecnologia
+> Samuel Augusto — Engenheiro da Computação & Desenvolvedor Salesforce
 ```
 
 </div>
