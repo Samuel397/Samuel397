@@ -13,6 +13,23 @@ $ whoami
 
 ---
 
+### Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
 ### Sobre mim
 
 - Desenvolvedor **Salesforce** com experiência em **+30 projetos** corporativos
@@ -29,23 +46,6 @@ $ whoami
 | [**Mv_Promo**](https://github.com/Samuel397/Mv_Promo) | Java, Android, Firebase, Salesforce | App nativo Android de roleta promocional com captura de leads e integração Salesforce — meu **TCC** |
 | [**CvmmPainel**](https://github.com/Samuel397/CvmmPainel) | Python, FastAPI, Docker, MySQL | Painel web administrativo com autenticação OAuth2, blog, geração de PDF e gestão de usuários |
 | [**ConsultaBot**](https://github.com/Samuel397/consultabot) | Python, Aiogram, FastAPI, Docker | Bot Telegram com API própria, rate limiting, containerização completa e túnel Cloudflare |
-
----
-
-### Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
 
 ---
 
