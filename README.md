@@ -6,7 +6,7 @@
 
 ```
 $ whoami
-> Samuel Augusto — Engenheiro da Computação & Desenvolvedor Salesforce
+> Samuel Rodrigues — Engenheiro da Computação & Desenvolvedor Salesforce
 ```
 
 </div>
