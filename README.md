@@ -1,17 +1,60 @@
-### Olá! Eu sou o Samuel Augusto. ✋
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelvw79/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rodrigues-972259208/)
+<img src="Cores_CVMM.png" width="400"/>
 
-![Samuel397 GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel397&show_icons=true&theme=onedark)
+# @cvmm
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel397)](https://github.com/anuraghazra/github-readme-stats)
+**Salesforce Developer | Android Developer | Python Enthusiast**
 
-## Tecnologias que uso no dia a dia.
+```
+$ whoami
+> Samuel Augusto — Desenvolvedor Salesforce & entusiasta de tecnologia
+```
 
-<div style = "display: inline_block"><br/><img aling = "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img aling = "center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img aling = "center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img aling = "center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img aling = "center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img aling = "center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img aling = "center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></div><br/>
+</div>
 
-Apaixonado por tecnologia, educção e por mudar vidas através da programação.
+---
 
-## Email para contato.
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samuel.augusto2626@gmail.com)
+### Sobre mim
+
+- Desenvolvedor **Salesforce** com experiência em **+30 projetos** corporativos
+- Criador de aplicações **Android nativas** com integração CRM
+- Construo ferramentas com **Python**, **FastAPI** e **Docker**
+- Automatizo processos com **bots** e **APIs**
+
+---
+
+### Projetos em destaque
+
+| Projeto | Stack | Descrição |
+|---------|-------|-----------|
+| [**Mv_Promo**](https://github.com/Samuel397/Mv_Promo) | Java, Android, Firebase, Salesforce | App nativo Android de roleta promocional com captura de leads e integração Salesforce — meu **TCC** |
+| [**CvmmPainel**](https://github.com/Samuel397/CvmmPainel) | Python, FastAPI, Docker, MySQL | Painel web administrativo com autenticação OAuth2, blog, geração de PDF e gestão de usuários |
+| [**ConsultaBot**](https://github.com/Samuel397/consultabot) | Python, Aiogram, FastAPI, Docker | Bot Telegram com API própria, rate limiting, containerização completa e túnel Cloudflare |
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+![Samuel397 GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel397&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel397&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)](https://github.com/Samuel397)
+
+</div>
